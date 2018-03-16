@@ -1,2 +1,3 @@
-# turtle
-Use of pythons popular turtle libraries to create a stunning pattern
+# Turtle up
+Create cool patterns with turtle library in python
+(pattern)!(./image.png)
